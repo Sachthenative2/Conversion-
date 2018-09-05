@@ -1,0 +1,15 @@
+    Miles to Kilometers Conversion
+
+x = #insert value in miles
+
+x * 1.60934 = y
+
+print (y)
+
+    Inches to Centimeters:
+    
+inch = #Insert Value
+
+cent = inch * 2.54
+
+print (cent)
